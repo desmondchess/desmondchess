@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desmondchess
 - 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Julia
+- 💞️ I’m a PhD student in Chemical Engineering (Best of both worlds) ...
 - 📫 How to reach me ...
 
 <!---
