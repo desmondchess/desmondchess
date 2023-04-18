@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Desmond
-- 👀 I’m interested in Data Analysis / Machine Learning 
+- 👀 I’m interested in Data Analysis / Machine Learning / A.I
 - 🌱 I’m currently learning Julia
 - 💞️ I’m a PhD student in Chemical Engineering (Best of both worlds) ...
 - 📫 How to reach me ...desmondphils@gmail.com
